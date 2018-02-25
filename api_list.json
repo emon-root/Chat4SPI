@@ -1,0 +1,37 @@
+{
+"ssb":
+{
+  "id": "1",
+  "name": "firstPage",
+  "mainsection": {
+    "newspaper": [
+      {
+        "id": 1,
+        "name": "aaaaa",
+	"ImageLink":"http://www.aaaa.com/images/aaaa.jpg",
+        "url": "http://www.aaaa.com"
+      },
+      {
+        "id": 2,
+        "name": "bbbbbb",
+	"ImageLink":"http://www.aaaa.com/images/aaaa.jpg",
+        "url": "http://www.bbbb.com"
+      }
+    ],
+    "entertainment": [
+      {
+        "id": 1,
+        "name": "cccc",
+	"ImageLink":"http://www.aaaa.com/images/aaaa.jpg",
+        "url": "http://www.cccc.com"
+      },
+      {
+        "id": 2,
+        "name": "DDDD",
+	"ImageLink":"http://www.aaaa.com/images/aaaa.jpg",
+        "url": "http://www.ddddd.com"
+      }
+    ]
+  }
+}
+}
